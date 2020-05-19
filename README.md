@@ -1,1 +1,1 @@
-# https://VicVice.github.io
+# VicVice.github.io
